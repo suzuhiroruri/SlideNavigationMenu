@@ -1,0 +1,683 @@
+TNavigationMenu
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Info.plist NavigationMenu/NavigationMenu-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/ResourceRules.plist
+cProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch.pth NavigationMenu/NavigationMenu-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAViewController.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAAppDelegate.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SINavigationMenuView.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SINavigationMenuView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuButton.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuButton.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuTable.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuTable.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuCell.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuConfiguration.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuConfiguration.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/UIColor+Extension.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/UIColor+Extension.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SICellSelection.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SICellSelection.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/NavigationMenu normal armv7
+cGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app.dSYM /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/NavigationMenu
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default.png NavigationMenu/Default.png
+cCopyStringsFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/en.lproj/InfoPlist.strings NavigationMenu/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default@2x.png NavigationMenu/Default@2x.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default-568h@2x.png NavigationMenu/Default-568h@2x.png
+cCompileXIB /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/en.lproj/HAViewController.xib
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down.png NavigationMenu/NavigationMenuView/images/arrow_down.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down@2x.png NavigationMenu/NavigationMenuView/images/arrow_down@2x.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/logo.png NavigationMenu/logo.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1@2x.png NavigationMenu/NavigationMenuView/images/arrow_down1@2x.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1.png NavigationMenu/NavigationMenuView/images/arrow_down1.png
+cCpResource README.md DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/README.md
+cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/embedded.mobileprovision
+cTouch /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu.xcent
+cCodeSign /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000051BC19820000000000000110
+t1371281794
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c00000000512CF0E500000000000001A7
+t1361899749
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c00000000512CF0E500000000000001E5
+t1361899749
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000512CF0E80000000000322700
+t1361899752
+s3286784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000512CF0E9000000000062AD10
+t1361899753
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000512CF0E800000000000015F7
+t1361899752
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000512CF0EA00000000003596B0
+t1361899754
+s3511984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000512CF0EA0000000000000E8D
+t1361899754
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000512CF0EE00000000011BCDF0
+t1361899758
+s18599408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/Availability.h
+c00000000512CF0F20000000000001B73
+t1361899762
+s7027
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu.xcent
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAAppDelegate.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/NavigationMenu.LinkFileList
+c00000000521313C30000000000000809
+t1376981955
+s2057
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SICellSelection.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuButton.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuCell.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuConfiguration.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuTable.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SINavigationMenuView.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/UIColor+Extension.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch.pth
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app.dSYM
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Info.plist
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/NavigationMenu
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/PkgInfo
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/README.md
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/ResourceRules.plist
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/en.lproj/HAViewController.nib
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/logo.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/Default-568h@2x.png
+c0000000051D3031800000000000048A2
+t1372783384
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/Default.png
+c0000000051D30318000000000000198C
+t1372783384
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/Default@2x.png
+c0000000051D303180000000000003EEB
+t1372783384
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAAppDelegate.m
+c0000000051D3031800000000000002C8
+t1372783384
+s712
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAViewController.m
+c0000000051D3031800000000000003AD
+t1372783384
+s941
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenu-Prefix.pch
+c0000000051D30318000000000000014B
+t1372783384
+s331
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SICellSelection.m
+c0000000051D303180000000000000513
+t1372783384
+s1299
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuButton.m
+c0000000051D303180000000000000ECE
+t1372783384
+s3790
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuCell.m
+c0000000051D303180000000000000A78
+t1372783384
+s2680
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuConfiguration.m
+c0000000051D30318000000000000050E
+t1372783384
+s1294
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuTable.m
+c0000000051D3031800000000000015FF
+t1372783384
+s5631
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SINavigationMenuView.m
+c0000000051D303180000000000000A8F
+t1372783384
+s2703
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/UIColor+Extension.m
+c0000000051D30318000000000000034F
+t1372783384
+s847
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/images/arrow_down.png
+c0000000051D3031800000000000006F8
+t1372783384
+s1784
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/images/arrow_down1.png
+c0000000051D3031800000000000005B4
+t1372783384
+s1460
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/images/arrow_down1@2x.png
+c0000000051D3031800000000000001D0
+t1372783384
+s464
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/images/arrow_down@2x.png
+c0000000051D30318000000000000099C
+t1372783384
+s2460
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/en.lproj/HAViewController.xib
+c0000000051D303180000000000001C5A
+t1372783384
+s7258
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/en.lproj/InfoPlist.strings
+c0000000051D30318000000000000002D
+t1372783384
+s45
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/logo.png
+c0000000051D303180000000000008817
+t1372783384
+s34839
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/main.m
+c0000000051D303180000000000000161
+t1372783384
+s353
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/README.md
+c0000000051D3031800000000000007F9
+t1372783384
+s2041
+
+N/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision
+c0000000051DBC2130000000000001D36
+t1373356563
+s7478
+
+NNavigationMenu/NavigationMenu-Info.plist
+c0000000051D303180000000000000497
+t1372783384
+s1175
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAAppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SICellSelection.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuButton.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuCell.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuConfiguration.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuTable.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SINavigationMenuView.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/UIColor+Extension.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies31b36b434bc3b741^1a868f434bc3b741^---0#1#0#--18"Check dependencies36"007C1C99-242A-4579-ABE8-7179DCD1671B-
+
+CCodeSign /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app
+s398674757.647164
+e398674757.952004
+r1
+xCodeSign
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"CodeSign DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.appbfd2a5454bc3b741^2cb8f3454bc3b741^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/0000000000000000^1079"CodeSign DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 8e72a3bdb14b5665b8d51cbcbab716ec47054420 --resource-rules=/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/ResourceRules.plist --entitlements /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu.xcent /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app36"64094500-6E16-4A52-BE6B-893300F365E5-
+
+CCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAAppDelegate.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398674756.238389
+e398674756.507357
+r1
+xCompileC
+xDerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAAppDelegate.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAAppDelegate.m34483d444bc3b741^f4e181444bc3b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAAppDelegate.m0000000000000000^4311"CompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAAppDelegate.o NavigationMenu/HAAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAAppDelegate.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAAppDelegate.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAAppDelegate.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAAppDelegate.o36"6F99F653-B565-46F9-A59B-FFCADE8792CF-
+
+CCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAViewController.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398674756.238340
+e398674756.502791
+r1
+xCompileC
+xDerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAViewController.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAViewController.md4463d444bc3b741^8ac880444bc3b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAViewController.m0000000000000000^4329"CompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAViewController.o NavigationMenu/HAViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAViewController.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/HAViewController.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/HAViewController.o36"E9E9E2AD-CF70-485E-A944-E5200C0BCE5E-
+
+CCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SICellSelection.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SICellSelection.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398674756.684778
+e398674756.783679
+r1
+xCompileC
+xDerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SICellSelection.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SICellSelection.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SICellSelection.mde39b0444bc3b741^6fa0c8444bc3b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SICellSelection.m0000000000000000^4361"CompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SICellSelection.o NavigationMenu/NavigationMenuView/SICellSelection.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SICellSelection.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SICellSelection.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SICellSelection.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SICellSelection.o36"9CBE3556-87A7-487E-92C0-0FA6F318E962-
+
+CCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuButton.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuButton.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398674756.487903
+e398674756.666769
+r1
+xCompileC
+xDerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuButton.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuButton.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuButton.m79217d444bc3b741^10b0aa444bc3b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuButton.m0000000000000000^4343"CompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuButton.o NavigationMenu/NavigationMenuView/SIMenuButton.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuButton.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuButton.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuButton.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuButton.o36"B875E4E4-5F8F-4BB7-888F-C8426FB8AA51-
+
+CCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuCell.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398674756.508685
+e398674756.681007
+r1
+xCompileC
+xDerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuCell.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuCell.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuCell.me67782444bc3b741^3d9eae444bc3b741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuCell.m0000000000000000^4331"CompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuCell.o NavigationMenu/NavigationMenuView/SIMenuCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuCell.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuCell.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuCell.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuCell.o36"7AAC0B9D-396A-4CC1-86FE-6CCD943D8D46-
+
+CCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuConfiguration.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuConfiguration.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398674756.539678
+e398674756.671876
+r1
+xCompileC
+xDerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuConfiguration.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuConfiguration.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuConfiguration.m1d738a444bc3b741^72c5ad444bc3b741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuConfiguration.m0000000000000000^4385"CompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuConfiguration.o NavigationMenu/NavigationMenuView/SIMenuConfiguration.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuConfiguration.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuConfiguration.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuConfiguration.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuConfiguration.o36"84E48E20-73AF-4DC1-A3DC-A10A288B93FD-
+
+CCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuTable.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuTable.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398674756.504145
+e398674756.728577
+r1
+xCompileC
+xDerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuTable.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuTable.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuTable.m456381444bc3b741^7b84ba444bc3b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuTable.m0000000000000000^4337"CompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuTable.o NavigationMenu/NavigationMenuView/SIMenuTable.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuTable.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuTable.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SIMenuTable.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SIMenuTable.o36"6FB26543-D570-4DEC-9778-25D951B67DE0-
+
+CCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SINavigationMenuView.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SINavigationMenuView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398674756.238391
+e398674756.538351
+r1
+xCompileC
+xDerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SINavigationMenuView.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SINavigationMenuView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SINavigationMenuView.m514d3d444bc3b741^0fd089444bc3b741^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SINavigationMenuView.m0000000000000000^4391"CompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SINavigationMenuView.o NavigationMenu/NavigationMenuView/SINavigationMenuView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SINavigationMenuView.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SINavigationMenuView.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/SINavigationMenuView.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/SINavigationMenuView.o36"2A6F56CC-98DD-4788-B89A-339FE211F1C9-
+
+CCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/UIColor+Extension.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/UIColor+Extension.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398674756.668215
+e398674756.727719
+r1
+xCompileC
+xDerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/UIColor+Extension.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/UIColor+Extension.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/UIColor+Extension.mbd55ab444bc3b741^aa47ba444bc3b741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/UIColor+Extension.m0000000000000000^4373"CompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/UIColor+Extension.o NavigationMenu/NavigationMenuView/UIColor+Extension.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/UIColor+Extension.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/UIColor+Extension.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/UIColor+Extension.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/UIColor+Extension.o36"CAC7B663-A8BB-4A6E-937A-5A072E472465-
+
+CCompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398674756.238356
+e398674756.486017
+r1
+xCompileC
+xDerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/main.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/main.mf1473d444bc3b741^997f7c444bc3b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/main.m0000000000000000^4257"CompileC DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/main.o NavigationMenu/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/main.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/main.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/main.o36"16163E24-218D-4250-A937-5F536912489B-
+
+CCompileXIB /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/en.lproj/HAViewController.xib
+s398674757.272957
+e398674757.581260
+r1
+xCompileXIB
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/en.lproj/HAViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compiling /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/en.lproj/HAViewController.xib1c9947454bc3b741^18cf94454bc3b741^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/en.lproj/HAViewController.xib0000000000000000^979"CompileXIB NavigationMenu/en.lproj/HAViewController.xib    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/en.lproj/HAViewController.nib /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/en.lproj/HAViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"ED491EC1-F4C7-4FBF-9161-C9DF41C0D6E4-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default-568h@2x.png NavigationMenu/Default-568h@2x.png
+s398674757.131238
+e398674757.401790
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default-568h@2x.png
+xNavigationMenu/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"CopyPNGFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default-568h@2x.png NavigationMenu/Default-568h@2x.pngd9b521454bc3b741^af9372454bc3b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/Default-568h@2x.png0000000000000000^783"CopyPNGFile "DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default-568h@2x.png" "NavigationMenu/Default-568h@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/Default-568h@2x.png" "/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default-568h@2x.png"36"A6E5CA13-FC50-414F-9FB5-5211C9DBDC01-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default.png NavigationMenu/Default.png
+s398674757.130889
+e398674757.269064
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default.png
+xNavigationMenu/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"CopyPNGFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default.png NavigationMenu/Default.pngfda121454bc3b741^fd8572454bc3b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/Default.png0000000000000000^743"CopyPNGFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default.png NavigationMenu/Default.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/Default.png /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default.png36"4A60AC72-5161-4082-B70A-247682CCE9AD-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default@2x.png NavigationMenu/Default@2x.png
+s398674757.130932
+e398674757.382183
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default@2x.png
+xNavigationMenu/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"CopyPNGFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default@2x.png NavigationMenu/Default@2x.png93aa21454bc3b741^b48e72454bc3b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/Default@2x.png0000000000000000^763"CopyPNGFile "DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default@2x.png" "NavigationMenu/Default@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/Default@2x.png" "/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Default@2x.png"36"C6DAC7E9-B92F-4A7C-8773-F821A0BE9F71-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down.png NavigationMenu/NavigationMenuView/images/arrow_down.png
+s398674757.384157
+e398674757.468003
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down.png
+xNavigationMenu/NavigationMenuView/images/arrow_down.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"CopyPNGFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down.png NavigationMenu/NavigationMenuView/images/arrow_down.png147962454bc3b741^f9da77454bc3b741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/images/arrow_down.png0000000000000000^807"CopyPNGFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down.png NavigationMenu/NavigationMenuView/images/arrow_down.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/images/arrow_down.png /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down.png36"8C673417-6C89-458C-9D5C-B78DDEE91982-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1.png NavigationMenu/NavigationMenuView/images/arrow_down1.png
+s398674757.501563
+e398674757.559450
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1.png
+xNavigationMenu/NavigationMenuView/images/arrow_down1.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"CopyPNGFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1.png NavigationMenu/NavigationMenuView/images/arrow_down1.png3b8980454bc3b741^86378f454bc3b741^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/images/arrow_down1.png0000000000000000^811"CopyPNGFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1.png NavigationMenu/NavigationMenuView/images/arrow_down1.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/images/arrow_down1.png /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1.png36"7C2D1BEB-0428-4F32-A829-B0CF24D260EF-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1@2x.png NavigationMenu/NavigationMenuView/images/arrow_down1@2x.png
+s398674757.469399
+e398674757.528808
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1@2x.png
+xNavigationMenu/NavigationMenuView/images/arrow_down1@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"CopyPNGFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1@2x.png NavigationMenu/NavigationMenuView/images/arrow_down1@2x.png7a5078454bc3b741^fa7c88454bc3b741^---0#0#0#-19%DVTDocumentLocation2@139"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/images/arrow_down1@2x.png0000000000000000^831"CopyPNGFile "DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1@2x.png" "NavigationMenu/NavigationMenuView/images/arrow_down1@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/images/arrow_down1@2x.png" "/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down1@2x.png"36"838D1FFF-371E-4651-BADB-805499C3D218-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down@2x.png NavigationMenu/NavigationMenuView/images/arrow_down@2x.png
+s398674757.413124
+e398674757.500117
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down@2x.png
+xNavigationMenu/NavigationMenuView/images/arrow_down@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection164"CopyPNGFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down@2x.png NavigationMenu/NavigationMenuView/images/arrow_down@2x.png71e869454bc3b741^e00e80454bc3b741^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/images/arrow_down@2x.png0000000000000000^827"CopyPNGFile "DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down@2x.png" "NavigationMenu/NavigationMenuView/images/arrow_down@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenuView/images/arrow_down@2x.png" "/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/arrow_down@2x.png"36"668CF636-0296-4A76-9B0A-D29445957B25-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/logo.png NavigationMenu/logo.png
+s398674757.454204
+e398674757.577946
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/logo.png
+xNavigationMenu/logo.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CopyPNGFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/logo.png NavigationMenu/logo.png810a77454bc3b741^bff393454bc3b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/logo.png0000000000000000^731"CopyPNGFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/logo.png NavigationMenu/logo.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/logo.png /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/logo.png36"E1343496-0C84-4DF5-8F83-F1FDC1F1056E-
+
+CCopyStringsFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/en.lproj/InfoPlist.strings NavigationMenu/en.lproj/InfoPlist.strings
+s398674757.130896
+e398674757.450176
+r1
+xCopyStringsFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/en.lproj/InfoPlist.strings
+xNavigationMenu/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy NavigationMenu/en.lproj/InfoPlist.stringsa3ae21454bc3b741^124e73454bc3b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/en.lproj/InfoPlist.strings0000000000000000^704"CopyStringsFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/en.lproj/InfoPlist.strings NavigationMenu/en.lproj/InfoPlist.strings    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/en.lproj -- NavigationMenu/en.lproj/InfoPlist.strings36"6471848D-01C7-4D54-80F5-17BA58462F4E-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/ResourceRules.plist
+s398674755.574834
+e398674755.582631
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xDerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/ResourceRules.plist9fe793434bc3b741^352595434bc3b741^---0#0#0#-19%DVTDocumentLocation2@175"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/ResourceRules.plist000000000080d041^862"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/ResourceRules.plist    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app36"294A9C74-FBCB-4235-9B7F-80F6428C03AB-
+
+CCpResource README.md DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/README.md
+s398674757.530179
+e398674757.533890
+r1
+xCpResource
+xREADME.md
+xDerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/README.md
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/README.md0dde87454bc3b741^4bb088454bc3b741^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/README.md000000000080d041^692"CpResource README.md DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/README.md    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/README.md /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app36"63827234-3AB3-436B-82C9-9B9BF760E538-
+
+CGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app.dSYM /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/NavigationMenu
+s398674757.029864
+e398674757.109377
+r1
+xGenerateDSYMFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app.dSYM
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/NavigationMenu
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Generate /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app.dSYMcfbd07454bc3b741^707772454bc3b741^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app.dSYM000000000080d041^851"GenerateDSYMFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app.dSYM DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/NavigationMenu    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/NavigationMenu -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app.dSYM36"D4B80F49-FFD0-4611-9116-4597F0996FCD-
+
+CLd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/NavigationMenu normal armv7
+s398674756.790654
+e398674757.022892
+r1
+xLd
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/NavigationMenu
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Link /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/NavigationMenu838aca444bc3b741^d76b72454bc3b741^---0#0#0#--1415"Ld DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/NavigationMenu normal armv7    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos -F/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos -filelist /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/Objects-normal/armv7/NavigationMenu.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=5.0 -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/NavigationMenu36"8ACEA326-7D66-4320-B6B7-EEE54F9E2A00-
+
+CProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Info.plist NavigationMenu/NavigationMenu-Info.plist
+s398674755.574829
+e398674755.584337
+r1
+xProcessInfoPlistFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Info.plist
+xNavigationMenu/NavigationMenu-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Process NavigationMenu/NavigationMenu-Info.plist7de793434bc3b741^789995434bc3b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenu-Info.plist0000000000000000^1026"ProcessInfoPlistFile DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Info.plist NavigationMenu/NavigationMenu-Info.plist    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NavigationMenu/NavigationMenu-Info.plist -genpkginfo /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/ResourceRules.plist -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/Info.plist36"866D75A6-55F6-4724-A1DF-0B6EBBB4EAB7-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch.pth NavigationMenu/NavigationMenu-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s398674755.592789
+e398674756.231370
+r1
+xProcessPCH
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch.pth
+xNavigationMenu/NavigationMenu-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile NavigationMenu/NavigationMenu-Prefix.pch593198434bc3b741^473a3b444bc3b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenu-Prefix.pch0000000000000000^4144"ProcessPCH DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch.pth NavigationMenu/NavigationMenu-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/NavigationMenu/NavigationMenu-Prefix.pch -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch.pth -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/PrecompiledHeaders/NavigationMenu-Prefix-djeejowokjkdbuaysofljtxhxyvl/NavigationMenu-Prefix.pch.d36"7C26393F-C00E-4A6E-AB13-B160C527DAD0-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Index/PrecompiledHeaders/NavigationMenu-Prefix-aizjuexcgmiuzogrvrnubcqjcqsr_ast/NavigationMenu-Prefix.pch.pth NavigationMenu/NavigationMenu-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/embedded.mobileprovision
+s398674757.602264
+e398674757.606866
+r1
+xProcessProductPackaging
+x/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection247"ProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/embedded.mobileprovision124b9a454bc3b741^b2829b454bc3b741^---0#0#0#-19%DVTDocumentLocation2@180"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/embedded.mobileprovision0000000000000000^834"ProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/embedded.mobileprovision    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app/embedded.mobileprovision36"0C0DADF2-C16F-43A2-B317-6C41BA60C609-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu.xcent
+s398674757.635244
+e398674757.639317
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection269"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu.xcentd8b8a2454bc3b741^2aa9a3454bc3b741^---0#0#0#-19%DVTDocumentLocation2@204"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu.xcent000000000080d041^904"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu.xcent    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Intermediates/NavigationMenu.build/Debug-iphoneos/NavigationMenu.build/NavigationMenu.xcent36"C8BAFBA0-BFA7-4973-AED4-5F478E7C07D8-
+
+CTouch /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app
+s398674757.615227
+e398674757.627355
+r1
+xTouch
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Touch /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.appb9a59d454bc3b741^f299a0454bc3b741^---0#0#0#--503"Touch DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/newsuzukihiromasa/Desktop/cocos2dx/NavigationMenu-master/DerivedData/NavigationMenu/Build/Products/Debug-iphoneos/NavigationMenu.app36"10D40213-9A35-47A6-B71B-7FB0C4162385-
+
